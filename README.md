@@ -1,4 +1,5 @@
-## Implementation of Kalman Filter
+# EX NO : 06 Implementation of Kalman Filter
+## DATE : 12.10.2023
 
 ## AIM
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
